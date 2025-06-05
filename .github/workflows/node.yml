@@ -19,4 +19,4 @@ jobs:
         node-version: '18'
 
     - name: Run Node.js Script
-      run: node Week3/system-info.js
+      run: node system-info.js
